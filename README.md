@@ -1,2 +1,2 @@
-# SocketChattingAPP
-An application designed in a C/S structure, realized the duplex message transaction between users through the Socket.
+Created an easy-to-use C/S structure desktop application, realized the TCP-based transmission. The application is splitted into client-end and server-end, whenever start the server, user could login the client-end and chat with friends online. Concurrency is used to guarantee the viability of many-to-many duplex message transmission through Socket.
+To run the program, please refer to "how to run.pdf" for more details.
